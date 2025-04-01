@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Home Assistant ownCloud add-on
+url: 'https://github.com/mikitaliaukovich/ha-owncloud'
+maintainer: Mikita Liaukovich <mikita.liaukovich@gmail.com>
